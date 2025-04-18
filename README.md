@@ -1,6 +1,6 @@
 # linfood
 
-A new Flutter project.
+Aplikasi ini bertujuan untuk mempromosikan UMKM di daerah Lintau, di mana terdapat banyak pelaku UMKM yang belum terbantu oleh perkembangan teknologi. Melalui aplikasi ini, para pelaku UMKM dapat mempromosikan produk jualannya secara lebih luas. Aplikasi ini berfokus pada promosi, namun juga dilengkapi dengan fitur tambahan yang memungkinkan pemesanan langsung melalui WhatsApp.
 
 ## Getting Started
 
