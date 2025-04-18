@@ -1,0 +1,72 @@
+name: linfood
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.5.1 <4.0.0" # Pastikan versi SDK kompatibel dengan dependensi
+
+dependencies:
+  flutter:
+    sdk: flutter
+  url_launcher: ^6.1.11
+  pdf: ^3.11.0
+  path_provider: ^2.0.15
+  cupertino_icons: ^1.0.8
+  http: ^0.13.4  
+  supabase_flutter: ^1.0.0 
+  flutter_rating_bar: ^4.0.0
+  shared_preferences: ^2.2.0
+  provider: ^6.1.2
+  file_picker: ^5.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  # Menambahkan daftar aset untuk aplikasi
+  assets:
+    - assets/etek_geprek.png
+    - assets/geprek_nusantara.png
+    - assets/cindomato.png
+    - assets/oishi.png
+    - assets/geprek_komplit_nasi.png
+    - assets/3t.png
+    - assets/geprek_komplit.png
+    - assets/tahu_crispy.png
+    - assets/LF.png
+    - assets/chef.png
+    - assets/nasi.png
+    - assets/nasi uduk.png
+    - assets/jus_alpukat.png
+    - assets/jus_mangga.png
+    - assets/cappucino.png
+    - assets/nutrisari.png
+    - assets/vanilla.png
+    - assets/coklat.png
+    - assets/naga.png
+    - assets/jeruk.png
+    - assets/tomat.png
+    - assets/timun.png
+    - assets/tehtelur.png
+    - assets/tehes.png
+    - assets/tehanget.png
+    - assets/kopi.png
+    - assets/ginseng.png
+    - assets/ikgor.png
+    - assets/nasgor.png
+    - assets/gorget.png
+    - assets/rebus.png
+    - assets/becek.png
+    - assets/dadar.png
+    - assets/kampung.png
+    - assets/kfc.png
+    - assets/lele.png
+    - assets/soto.png
+    - assets/lontong.png
+    - assets/uduk.png
